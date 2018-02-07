@@ -1,5 +1,3 @@
-# assignment
-
 <html>
    
     <head>
@@ -24,7 +22,7 @@
                 -webkit-transition-duration: 0.4s;
                 transition-duration: 0.4s;
                 cursor: pointer;
-                margin-left: 610px;
+                margin-left: 400px;
             }
     
             .btn {
